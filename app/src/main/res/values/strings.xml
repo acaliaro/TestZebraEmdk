@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestZebraEmdk</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="emdkmanager_request_failed">EMDK manager, request failed</string>
+    <string name="execute">Execute</string>
+    <string name="status">Status</string>
+    <string name="response">Response</string>
+    <string name="sdk_not_initialized">SDK not initialized</string>
+    <string name="profile_not_selected">Profile not selected</string>
+</resources>
